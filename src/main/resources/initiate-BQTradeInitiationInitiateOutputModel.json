@@ -1,0 +1,26 @@
+{
+  "tradeInitiationInstanceReference" : "TIIR728407",
+  "tradeInitiationInstanceRecord" : {
+    "marketTradeTransactionInstanceProcessingStatus" : "marketTradeTransactionInstanceProcessingStatus",
+    "wholesaleTradeReference" : "719613",
+    "marketTradeInitiationTaskResultThisincludesalldetailsofthetradeneededtoclearandsettlethemarketorderincludingsecuritiescustodyarrangements" : "marketTradeInitiationTaskResultThisincludesalldetailsofthetradeneededtoclearandsettlethemarketorderincludingsecuritiescustodyarrangements"
+  },
+  "marketTradeTransactionInstanceRecord" : {
+    "marketOrderTransactionInstanceReference" : "793089",
+    "customerMarketOrderProcessingInstruction" : "customerMarketOrderProcessingInstruction",
+    "marketOrderTransaction" : {
+      "investmentAccountFulfillmentArrangementInstanceReference" : "749688",
+      "amount" : "USD 250",
+      "currentAccountFulfillmentArrangementInstanceReference" : "723422",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securityType" : "securityType",
+      "marketOrderType" : "marketOrderType",
+      "marketOrderTradeInitiationInstanceReference" : "781585"
+    }
+  },
+  "tradeInitiationInitiateActionRecord" : {},
+  "tradeInitiationInitiateActionReference" : "TIIAR788109",
+  "tradeInitiationInstanceStatus" : "tradeInitiationInstanceStatus"
+}

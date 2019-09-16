@@ -1,0 +1,20 @@
+{
+  "positionRequestActionTaskReference" : "PRATR731787",
+  "positionRequestRecordReference" : "PRRR758840",
+  "positionInstanceRecord" : {
+    "bankSecurityPositionSecurityType" : "bankSecurityPositionSecurityType",
+    "bankSecurityPositionSecurityPLRecord" : {},
+    "positionMarketOrderTradeInitiationInstanceReference" : "785594",
+    "wholesaleTrade" : {
+      "wholesaleTradeStatus" : "wholesaleTradeStatus",
+      "wholesaleTradePrice" : "wholesaleTradePrice",
+      "correspondenceInstanceReference" : "768216",
+      "wholesaleTradeVolume" : "wholesaleTradeVolume",
+      "wholesaleTradeClearingandSettlementTerms" : "wholesaleTradeClearingandSettlementTerms",
+      "wholesaleTradeSecurityType" : "wholesaleTradeSecurityType",
+      "documentDirectoryEntryInstanceReference" : "760913"
+    }
+  },
+  "positionRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

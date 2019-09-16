@@ -1,0 +1,39 @@
+{
+  "tradeInitiationInstanceRecord" : {
+    "marketTradeTransactionInstanceProcessingStatus" : "marketTradeTransactionInstanceProcessingStatus",
+    "wholesaleTradeReference" : "760896",
+    "marketTradeInitiationTaskResultThisincludesalldetailsofthetradeneededtoclearandsettlethemarketorderincludingsecuritiescustodyarrangements" : "marketTradeInitiationTaskResultThisincludesalldetailsofthetradeneededtoclearandsettlethemarketorderincludingsecuritiescustodyarrangements"
+  },
+  "tradeInitiationInstanceReport" : {
+    "tradeInitiationInstanceReportType" : "tradeInitiationInstanceReportType",
+    "tradeInitiationInstanceReportRecord" : {},
+    "tradeInitiationInstanceReport" : {},
+    "tradeInitiationInstanceReportParameters" : "tradeInitiationInstanceReportParameters"
+  },
+  "marketTradeTransactionInstanceRecord" : {
+    "employeeBusinessUnitReference" : "794236",
+    "marketOrderTransactionInstanceReference" : "720801",
+    "customerReference" : "701830",
+    "customerMarketOrderProcessingInstruction" : "customerMarketOrderProcessingInstruction",
+    "marketOrderTransaction" : {
+      "investmentAccountFulfillmentArrangementInstanceReference" : "749501",
+      "amount" : "USD 250",
+      "currentAccountFulfillmentArrangementInstanceReference" : "703533",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securityType" : "securityType",
+      "marketOrderType" : "marketOrderType",
+      "marketOrderTradeInitiationInstanceReference" : "725585"
+    }
+  },
+  "tradeInitiationRetrieveActionTaskRecord" : {},
+  "tradeInitiationRetrieveActionResponse" : "tradeInitiationRetrieveActionResponse",
+  "tradeInitiationInstanceAnalysis" : {
+    "tradeInitiationInstanceAnalysisReportType" : "tradeInitiationInstanceAnalysisReportType",
+    "tradeInitiationInstanceAnalysisReport" : {},
+    "tradeInitiationInstanceAnalysisRecord" : {},
+    "tradeInitiationInstanceAnalysisParameters" : "tradeInitiationInstanceAnalysisParameters"
+  },
+  "tradeInitiationRetrieveActionTaskReference" : "TIRATR728855"
+}

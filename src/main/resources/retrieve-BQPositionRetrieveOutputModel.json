@@ -1,0 +1,31 @@
+{
+  "positionInstanceAnalysis" : {
+    "positionInstanceAnalysisRecord" : {},
+    "positionInstanceAnalysisReportType" : "positionInstanceAnalysisReportType",
+    "positionInstanceAnalysisReport" : {},
+    "positionInstanceAnalysisParameters" : "positionInstanceAnalysisParameters"
+  },
+  "positionRetrieveActionResponse" : "positionRetrieveActionResponse",
+  "positionInstanceReport" : {
+    "positionInstanceReport" : {},
+    "positionInstanceReportType" : "positionInstanceReportType",
+    "positionInstanceReportParameters" : "positionInstanceReportParameters",
+    "positionInstanceReportRecord" : {}
+  },
+  "positionRetrieveActionTaskRecord" : {},
+  "positionRetrieveActionTaskReference" : "PRATR741112",
+  "positionInstanceRecord" : {
+    "bankSecurityPositionSecurityType" : "bankSecurityPositionSecurityType",
+    "bankSecurityPositionSecurityPLRecord" : {},
+    "positionMarketOrderTradeInitiationInstanceReference" : "792962",
+    "wholesaleTrade" : {
+      "wholesaleTradeStatus" : "wholesaleTradeStatus",
+      "wholesaleTradePrice" : "wholesaleTradePrice",
+      "correspondenceInstanceReference" : "745512",
+      "wholesaleTradeVolume" : "wholesaleTradeVolume",
+      "wholesaleTradeClearingandSettlementTerms" : "wholesaleTradeClearingandSettlementTerms",
+      "wholesaleTradeSecurityType" : "wholesaleTradeSecurityType",
+      "documentDirectoryEntryInstanceReference" : "700276"
+    }
+  }
+}

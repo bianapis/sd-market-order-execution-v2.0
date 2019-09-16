@@ -1,0 +1,39 @@
+{
+  "quoteRetrieveActionTaskReference" : "QRATR759605",
+  "marketTradeTransactionInstanceRecord" : {
+    "employeeBusinessUnitReference" : "751692",
+    "marketOrderTransactionInstanceReference" : "702808",
+    "customerReference" : "739459",
+    "customerMarketOrderProcessingInstruction" : "customerMarketOrderProcessingInstruction",
+    "marketOrderTransaction" : {
+      "investmentAccountFulfillmentArrangementInstanceReference" : "730444",
+      "amount" : "USD 250",
+      "currentAccountFulfillmentArrangementInstanceReference" : "777115",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securityType" : "securityType",
+      "marketOrderType" : "marketOrderType",
+      "marketOrderTradeInitiationInstanceReference" : "708116"
+    }
+  },
+  "quoteInstanceReport" : {
+    "quoteInstanceReportParameters" : "quoteInstanceReportParameters",
+    "quoteInstanceReport" : {},
+    "quoteInstanceReportRecord" : {},
+    "quoteInstanceReportType" : "quoteInstanceReportType"
+  },
+  "quoteRetrieveActionResponse" : "quoteRetrieveActionResponse",
+  "quoteRetrieveActionTaskRecord" : {},
+  "quoteInstanceAnalysis" : {
+    "quoteInstanceAnalysisReportType" : "quoteInstanceAnalysisReportType",
+    "quoteInstanceAnalysisReport" : {},
+    "quoteInstanceAnalysisParameters" : "quoteInstanceAnalysisParameters",
+    "quoteInstanceAnalysisRecord" : {}
+  },
+  "quoteInstanceRecord" : {
+    "quote" : "quote",
+    "quoteSecurityType" : "quoteSecurityType",
+    "quoteType" : "quoteType"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "marketTradeTransactionInstanceRecord" : {
+    "employeeBusinessUnitReference" : "753782",
+    "marketOrderTransactionInstanceReference" : "753632",
+    "customerReference" : "744188",
+    "customerMarketOrderProcessingInstruction" : "customerMarketOrderProcessingInstruction",
+    "marketOrderTransaction" : {
+      "investmentAccountFulfillmentArrangementInstanceReference" : "790360",
+      "amount" : "USD 250",
+      "currentAccountFulfillmentArrangementInstanceReference" : "701542",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securityType" : "securityType",
+      "marketOrderType" : "marketOrderType",
+      "marketOrderTradeInitiationInstanceReference" : "755512"
+    }
+  },
+  "updateResponseRecord" : {},
+  "marketTradeTransactionUpdateActionTaskRecord" : {},
+  "marketTradeTransactionUpdateActionTaskReference" : "MTTUATR776573"
+}

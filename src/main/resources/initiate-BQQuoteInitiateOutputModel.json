@@ -1,0 +1,26 @@
+{
+  "quoteInstanceStatus" : "quoteInstanceStatus",
+  "quoteInitiateActionRecord" : {},
+  "quoteInitiateActionReference" : "QIAR745817",
+  "marketTradeTransactionInstanceRecord" : {
+    "marketOrderTransactionInstanceReference" : "732730",
+    "customerMarketOrderProcessingInstruction" : "customerMarketOrderProcessingInstruction",
+    "marketOrderTransaction" : {
+      "investmentAccountFulfillmentArrangementInstanceReference" : "739589",
+      "amount" : "USD 250",
+      "currentAccountFulfillmentArrangementInstanceReference" : "701121",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securityType" : "securityType",
+      "marketOrderType" : "marketOrderType",
+      "marketOrderTradeInitiationInstanceReference" : "727186"
+    }
+  },
+  "quoteInstanceReference" : "QIR714282",
+  "quoteInstanceRecord" : {
+    "quote" : "quote",
+    "quoteSecurityType" : "quoteSecurityType",
+    "quoteType" : "quoteType"
+  }
+}

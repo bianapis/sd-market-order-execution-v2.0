@@ -1,0 +1,21 @@
+{
+  "marketTradeTransactionInitiateActionRecord" : {},
+  "marketTradeTransactionInstanceRecord" : {
+    "marketOrderTransactionInstanceReference" : "775652",
+    "customerMarketOrderProcessingInstruction" : "customerMarketOrderProcessingInstruction",
+    "marketOrderTransaction" : {
+      "investmentAccountFulfillmentArrangementInstanceReference" : "718187",
+      "amount" : "USD 250",
+      "currentAccountFulfillmentArrangementInstanceReference" : "749087",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securityType" : "securityType",
+      "marketOrderType" : "marketOrderType",
+      "marketOrderTradeInitiationInstanceReference" : "707151"
+    }
+  },
+  "marketTradeTransactionInstanceReference" : "MTTIR764944",
+  "marketTradeTransactionInitiateActionReference" : "MTTIAR750788",
+  "marketTradeTransactionInstanceStatus" : "marketTradeTransactionInstanceStatus"
+}

@@ -1,0 +1,32 @@
+{
+  "marketTradeTransactionInstanceAnalysis" : {
+    "marketTradeTransactionInstanceAnalysisReportType" : "marketTradeTransactionInstanceAnalysisReportType",
+    "marketTradeTransactionInstanceAnalysisData" : "marketTradeTransactionInstanceAnalysisData",
+    "marketTradeTransactionInstanceAnalysisReport" : {}
+  },
+  "marketTradeTransactionInstanceRecord" : {
+    "employeeBusinessUnitReference" : "758814",
+    "marketOrderTransactionInstanceReference" : "749916",
+    "customerReference" : "715602",
+    "customerMarketOrderProcessingInstruction" : "customerMarketOrderProcessingInstruction",
+    "marketOrderTransaction" : {
+      "investmentAccountFulfillmentArrangementInstanceReference" : "700893",
+      "amount" : "USD 250",
+      "currentAccountFulfillmentArrangementInstanceReference" : "795781",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securityType" : "securityType",
+      "marketOrderType" : "marketOrderType",
+      "marketOrderTradeInitiationInstanceReference" : "708888"
+    }
+  },
+  "marketTradeTransactionRetrieveActionTaskRecord" : {},
+  "marketTradeTransactionRetrieveActionResponse" : "marketTradeTransactionRetrieveActionResponse",
+  "marketTradeTransactionInstanceReportRecord" : {
+    "marketTradeTransactionInstanceReport" : {},
+    "marketTradeTransactionInstanceReportType" : "marketTradeTransactionInstanceReportType",
+    "marketTradeTransactionInstanceReportData" : "marketTradeTransactionInstanceReportData"
+  },
+  "marketTradeTransactionRetrieveActionTaskReference" : "MTTRATR797113"
+}
